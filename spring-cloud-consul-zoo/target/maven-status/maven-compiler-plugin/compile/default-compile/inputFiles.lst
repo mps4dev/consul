@@ -1,3 +1,3 @@
-/home/marcin/work/prezentacja_consul/spring-cloud-consul-zoo/src/main/java/pl/epoint/mszuppe/springcloudconsulzoo/controller/ZooServiceController.java
-/home/marcin/work/prezentacja_consul/spring-cloud-consul-zoo/src/main/java/pl/epoint/mszuppe/springcloudconsulzoo/SpringCloudConsulZooApplication.java
-/home/marcin/work/prezentacja_consul/spring-cloud-consul-zoo/src/main/java/pl/epoint/mszuppe/springcloudconsulzoo/delegate/ZooDelegate.java
+/home/marcin/work/prezentacja_consul/spring-cloud-consul-zoo/src/main/java/pl/epoint/mszuppe/epointzoo/zoo/ZooApplication.java
+/home/marcin/work/prezentacja_consul/spring-cloud-consul-zoo/src/main/java/pl/epoint/mszuppe/epointzoo/zoo/ZooController.java
+/home/marcin/work/prezentacja_consul/spring-cloud-consul-zoo/src/main/java/pl/epoint/mszuppe/epointzoo/zoo/ZooDelegate.java
